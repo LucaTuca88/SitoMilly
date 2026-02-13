@@ -68,10 +68,10 @@ body {
 .image-layout:nth-of-type(5) { top: 370%; left: 75%; transform: rotate(10deg); }
 .image-layout:nth-of-type(6) { top: 680%; left: 15%; transform: rotate(-20deg); }
 .image-layout:nth-of-type(7) { top: 755%; left: 5%; transform: rotate(15deg); } /*Left sposta a sinistra e destra, Top sposta sopra e sotto */
-.image-layout:nth-of-type(8) { top: 1000%; left: 20%; transform: rotate(-25deg); }
-.image-layout:nth-of-type(9) { top: 800%; left: 70%; transform: rotate(20deg); }/*la prima immagine è il numero 3 */
-.image-layout:nth-of-type(10) { top: 950%; left: 25%; transform: rotate(-15deg); }
-.image-layout:nth-of-type(11) { top: 1080%; left: 25%;}
+.image-layout:nth-of-type(8) { top: 7000%; left: 20%; transform: rotate(-25deg); }
+.image-layout:nth-of-type(9) { top: 700%; left: 70%; transform: rotate(20deg); }/*la prima immagine è il numero 3 */
+.image-layout:nth-of-type(10) { top: 700%; left: 25%; transform: rotate(-15deg); }
+.image-layout:nth-of-type(11) { top: 7000%; left: 25%;}
 
 
 
